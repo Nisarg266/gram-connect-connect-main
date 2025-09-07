@@ -20,7 +20,7 @@ export const Hero: React.FC = () => {
             <div className="mb-6">
               <div className="inline-flex items-center gap-2 bg-primary-muted text-primary px-4 py-2 rounded-full text-sm font-medium mb-4">
                 <Shield className="h-4 w-4" />
-                Digital India Initiative
+                Digital India Bha Initiative
               </div>
               <h1 className="text-4xl lg:text-6xl font-bold text-primary-foreground mb-4 leading-tight">
                 {t('hero.title')}
